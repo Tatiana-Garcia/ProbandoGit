@@ -32,17 +32,14 @@ public class PruebaScanner {
                     nueva.add(depression)
                 break;
             }  
-            
-            
-           
-            
-            
-            
-            
-            
-            
             System.out.println(grade+exception_in_code);
             System.out.println("");
+            //Hello World
+            //Hey Darian
+            
+            //Si ves esto al hacer el pull me avisas xD por wha o Discord, cambio xD
+            
+            
             
     }
 }
